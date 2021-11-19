@@ -4,7 +4,6 @@ from selenium.webdriver.common.keys import Keys
 import os
 import time
 browser = uc.Chrome()
-browser.delete_all_cookies()
 os.system('cls')
 browser.get('https://popcat.click')
 input('Press Enter to start (your CPU usage may spike)')

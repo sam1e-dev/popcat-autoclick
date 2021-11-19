@@ -1,4 +1,4 @@
-# Popcat Autoclicked
+# Popcat Autoclicker
 Clicks in popcat.click as fast as possible
 
 Setup:

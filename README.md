@@ -12,3 +12,5 @@ Paste these commands:
 pip install selenium
 
 pip install undetected-chromedriver
+
+Enjoy :D
